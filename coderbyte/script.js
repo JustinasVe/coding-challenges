@@ -5,3 +5,4 @@ import { reversedString } from "../codewars/8kyu/reversed-string.js";
 import { countSheeps } from "../codewars/8kyu/counting-sheep.js";
 import { makeNegative } from "../codewars/8kyu/return-negative.js";
 import { isDivisible } from "../codewars/8kyu/is-divisible.js";
+import { century } from "../codewars/8kyu/century-from-year.js";
